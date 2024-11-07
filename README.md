@@ -24,3 +24,6 @@ This project is a music streaming application built with React, Redux, and Tailw
    git clone https://github.com/noelpurde/music-app-react.git
    cd music-app-react
    ```
+**Install dependencies**: `npm install`
+3. **API Setup**: Get a Shazam Core API key from RapidAPI and add it to `.env` file, that is used to access the key
+4. **Run the app**: `npm start`
