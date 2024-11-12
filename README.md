@@ -2,7 +2,7 @@
 
 This project is a music streaming application built with React, Redux, and Tailwind CSS.
 
-<img src="Screenshot%202024-11-12%20142821.png" width="400" />
+<img src="Screenshot%202024-11-12%20142821.png" width="800" />
 
 ## Features
 
