@@ -2,6 +2,8 @@
 
 This project is a music streaming application built with React, Redux, and Tailwind CSS.
 
+![Alt Text](Screenshot 2024-11-12 142821.png)
+
 ## Features
 
 - **Search and Discover**: Navigate top charts, search by songs, artists, and genre.
